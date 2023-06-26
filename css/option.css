@@ -1,0 +1,16 @@
+.write-btn {
+  position: fixed;
+  bottom: 120px;
+  right: 15px;
+  width: 120px;
+  height: 50px;
+  padding: 10px 15px 10px 15px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fe6f0f;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  font-size: x-large;
+  color: white;
+}
