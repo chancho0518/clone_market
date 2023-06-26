@@ -15,6 +15,7 @@ footer {
   align-items: center;
   margin: 0px 10px 0px 10px;
 }
+
 .footer-icons {
   flex-direction: column;
   display: flex;
