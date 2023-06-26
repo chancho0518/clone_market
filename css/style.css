@@ -4,6 +4,11 @@
 @import url("footer.css");
 @import url("option.css");
 
+:root {
+  --btn-primary: rgb(254, 111, 15);
+  --btn-primary-hover: rgba(254, 111, 15, 0.8);
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
     "Pretendard Variable", Pretendard, Roboto, "Noto Sans KR", "Segoe UI",
